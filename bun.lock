@@ -3,7 +3,7 @@
   "configVersion": 1,
   "workspaces": {
     "": {
-      "name": "goat-bot-v2",
+      "name": "goat-pedro",
       "dependencies": {
         "@distube/ytdl-core": "^4.13.3",
         "@eryxenx/fca": "^1.1.9",
